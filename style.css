@@ -5,7 +5,7 @@ img{
   padding-right:10px;
 }
 div.item {
-  display: inline-block;
+  display: bloc;
 }
 .caption {
   display: table-caption;
